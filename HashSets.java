@@ -8,6 +8,8 @@ public static void main(String[]args){
      set.add(new Person("swapna", 20, "Hyderabad"));
      set.add(new Person("Swathi", 21, "Chennai"));
      set.add(new Person("jyothi", 22, "Rajahmundry"));
+     set.add(new Person("suni", 23, "warangal"));
+     set.add(new Person("sunny", 24, "Bheemavaram"));
     
      for(Person p:set)
      {
